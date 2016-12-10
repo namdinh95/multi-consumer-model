@@ -13,11 +13,11 @@ LDLIBS = -lcdk -lcurses -lboost_system -lboost_thread-mt
 # PROJECTNAME is a descriptive name used for the backup target
 # This should not contain spaces or special characters
 
-PROJECTNAME = program6
+PROJECTNAME = program
 
-EXECFILE = program6
+EXECFILE = program
 
-OBJS = program6.o
+OBJS = program.o
 
 
 #
